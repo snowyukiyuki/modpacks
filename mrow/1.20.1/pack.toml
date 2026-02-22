@@ -1,12 +1,12 @@
-name = "mrow-1.20.1"
+name = "1.20.1"
 author = "starlight"
-version = "0.7"
+version = "1"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "c95d70cd2ea4045ad6eaff25d0f6eed0271e361ba618710cfb9ad434cda0646e"
+hash = "f64d3d08c8844b3618ca617399c5607f300fdd36f0870e8fc43b15c1de19d01b"
 
 [versions]
 fabric = "0.18.4"

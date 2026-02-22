@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/Xl2GihRU/versions/Y1nj0TIS/ore-vein-miner-1.2.jar"
-hash-format = "sha512"
-hash = "abb0249c8097d65eaca81b4a6db5a709d09e8b74c97b4025d86b728987f438b13f2674e70a59e13b8633b910254fe943ea51b38e6e8bdcb897cd16dbd762b0d7"
+hash-format = "sha256"
+hash = "d252672c344e76f89c4a4244bf8bf4336e0272d78a83ddca09fc68f7aadeb66d"
 
 [update]
 [update.modrinth]

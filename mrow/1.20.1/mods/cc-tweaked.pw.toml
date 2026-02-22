@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/gu7yAYhd/versions/q9ZnwO1C/cc-tweaked-1.20.1-fabric-1.117.0.jar"
-hash-format = "sha512"
-hash = "d4939701ffcb6947d9f476dfd2491aa3cef1387991d092c542cd56abb52f756197df72ce9031d4a18434aa5bdb44f7002cd6b094cd0fbf178dcb46ac35d7767a"
+hash-format = "sha256"
+hash = "854ff6bf2a7a1159039ff49efbb3d30d4d7bfa5c929cae1d3a529b12fcd67aac"
 
 [update]
 [update.modrinth]

@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/9r4ZkgSN/versions/kUCsby3t/SimpleCopperPipes-mc1.20.1-2.0.3.jar"
-hash-format = "sha512"
-hash = "39bb550962033a04a4d544de6c1d419ca81e40e284da936d08f97090607e12d99dc3272b56c9a2714712c83a8ff7d0fd358202eda2b76d077a77589ae460c023"
+hash-format = "sha256"
+hash = "c5fe0277e5fd9957cc9fe8ac3920cde5ab53c55393e6bd4362780f8261d20a5f"
 
 [update]
 [update.modrinth]

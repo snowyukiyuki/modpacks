@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/3B2ZKxo3/versions/NAHZPxd3/CalamityMusicDisc1.20.1%201.0.1%20FABRIC.jar"
-hash-format = "sha512"
-hash = "1e86ada8e70739ff83223add57aa6db128772ceece8c43514dd36c76b480b26243ee5f6d4abb0327c7e0399ce85b414c869500c202788dcbe135e06aeea25bc5"
+hash-format = "sha256"
+hash = "3af17322038f18db94a41ed903149f5ca8ae656fd177c22dee56a97b9a667aa5"
 
 [update]
 [update.modrinth]

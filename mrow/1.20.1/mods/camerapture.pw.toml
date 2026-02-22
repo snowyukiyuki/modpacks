@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/9dzLWnmZ/versions/1vM6GzIZ/Camerapture-1.10.12%2Bmc1.20.1-fabric.jar"
-hash-format = "sha512"
-hash = "2f9e659ab4544f61db1e739d16cba264c120d91c912b44f545250890d48a12eb49e1e751caf4e2cb3c77436e631e38262df99e4d0b3ce615cadd4b24abf902bb"
+hash-format = "sha256"
+hash = "7f7894302a51ce9d6bef370d5e9bd4e5dfbeb6c0d275ac43d712927429545593"
 
 [update]
 [update.modrinth]

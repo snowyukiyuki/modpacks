@@ -1,1 +1,13 @@
-placeholder
+name = "mrow-1.20.1"
+author = "starlight"
+version = "0.7"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "4cb8bfbb839dcfbdc7993ace206e65ce5e7db88ff03a633723dd49d6c4931927"
+
+[versions]
+fabric = "0.18.4"
+minecraft = "1.20.1"

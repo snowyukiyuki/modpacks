@@ -1,0 +1,13 @@
+name = "Japanese IME (JIME)"
+filename = "jime-1.0.2+1.20-1.20.4.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/Ggc20boo/versions/kcMeGISq/jime-1.0.2%2B1.20-1.20.4.jar"
+hash-format = "sha512"
+hash = "f50b0dab8154c5129251107318bc233a084349ac1db47bef6aa2c2dd0e10a72bd2cfe58fb3f0d455e9822387367ade69875bb1f86d53e49daa43d9edf7d3bb97"
+
+[update]
+[update.modrinth]
+mod-id = "Ggc20boo"
+version = "kcMeGISq"

@@ -136,11 +136,6 @@ hash = "7eefb0f3d1b793f7dc57ee7cf368d055c9b1bf3556f61179f38f1c49c163c1bd"
 metafile = true
 
 [[files]]
-file = "mods/eureka-ships.pw.toml"
-hash = "d5cad55d8bb063133e0de110721b5e51da35ef105187076d4fdc821756889c45"
-metafile = true
-
-[[files]]
 file = "mods/fabric-api.pw.toml"
 hash = "1ee56d5feb0ede9397b26f3c5b7543a3556088146d154b55172ef0e8b1a97705"
 metafile = true
@@ -283,9 +278,4 @@ metafile = true
 [[files]]
 file = "mods/tree-harvester.pw.toml"
 hash = "d6ddde622109dc5072e84fc6493c44950314594864a74495d898bcefbd3f2e8b"
-metafile = true
-
-[[files]]
-file = "mods/valkyrien-skies.pw.toml"
-hash = "1a6272bc5a0f94e4df87d3cab884bd5a9eaa369af6a7008541640779b49bdb36"
 metafile = true

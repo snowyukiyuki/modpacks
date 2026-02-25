@@ -126,6 +126,11 @@ hash = "446fab8551eac0486998922b625c7e9a5d7bce4f3dd8fb8455a95cd49e26b55c"
 metafile = true
 
 [[files]]
+file = "mods/distanthorizons.pw.toml"
+hash = "47fd33da68d0b13cdffd4124f5bc9cff64caa2878ce7e979ba8092400c2ae1eb"
+metafile = true
+
+[[files]]
 file = "mods/energized-power.pw.toml"
 hash = "dcfeece63f635643c13bfa0b91ca355c86d8ca60d2a9aa7384d813bbfbc3273e"
 metafile = true
@@ -153,6 +158,11 @@ metafile = true
 [[files]]
 file = "mods/farmers-delight-refabricated.pw.toml"
 hash = "191b276151cccd6c812e4cd220ab5cc5e694e42d947bf35d77be2a8447720647"
+metafile = true
+
+[[files]]
+file = "mods/ferrite-core.pw.toml"
+hash = "86cbfa8adbbb8be527f95aca49b427f892aa780773df141dfd7f4ffd02740bbd"
 metafile = true
 
 [[files]]
@@ -191,6 +201,11 @@ hash = "e3f65e290d2c9b0fe6602e7b712433a0102ce7e2b33c12e2915aff173d5d99aa"
 metafile = true
 
 [[files]]
+file = "mods/lithium.pw.toml"
+hash = "c8695e51366b601c5e9118a5d5650d234cc25fc8d1f90ebd186c17c199ba7fca"
+metafile = true
+
+[[files]]
 file = "mods/lithosphere.pw.toml"
 hash = "a65049201de5c60f1722b7dcfe63ebd2adcdc1374342fb255ffb5a2885b92899"
 metafile = true
@@ -208,6 +223,11 @@ metafile = true
 [[files]]
 file = "mods/mcpitanlibarch.pw.toml"
 hash = "af97099f49e0a43df51ed00607b4f9dab2383a51370d978ec781f9dd1e15faa8"
+metafile = true
+
+[[files]]
+file = "mods/memoryleakfix.pw.toml"
+hash = "ede2f61d6b592f44294fa8790c2f050729c487aa86aba09034f2ef30d45e0e93"
 metafile = true
 
 [[files]]

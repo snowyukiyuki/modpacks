@@ -147,7 +147,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "633920814a157dae672b3559f4bfd1efb85ceb645340f8598e843afff3e80940"
+hash = "1ee56d5feb0ede9397b26f3c5b7543a3556088146d154b55172ef0e8b1a97705"
 metafile = true
 
 [[files]]
@@ -168,11 +168,6 @@ metafile = true
 [[files]]
 file = "mods/frozenlib.pw.toml"
 hash = "51fae398a6df96b056e5cd119b59187c0a7f26fd210ab1c5406d3de2e8e271af"
-metafile = true
-
-[[files]]
-file = "mods/gravestones.pw.toml"
-hash = "e02e297f397621e1c0d17f6853d5176e23343609e978ac3fd35f1a73d00d509c"
 metafile = true
 
 [[files]]
@@ -258,6 +253,16 @@ metafile = true
 [[files]]
 file = "mods/pehkui.pw.toml"
 hash = "c24d537ff9c54ebfc6b244ded3d82a47a2f4f4912b1662da18922038688ae8e0"
+metafile = true
+
+[[files]]
+file = "mods/pneumono_core.pw.toml"
+hash = "e263156892782aff6124ef4fe589527a07383c66ead1ed5b93a5d15dcb03b8f7"
+metafile = true
+
+[[files]]
+file = "mods/pneumono_gravestones.pw.toml"
+hash = "354e2e52fa611a73a50059873090cc3605f1868cbae61baeb952e2ec162ded31"
 metafile = true
 
 [[files]]

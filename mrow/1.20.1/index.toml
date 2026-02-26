@@ -256,6 +256,16 @@ hash = "c24d537ff9c54ebfc6b244ded3d82a47a2f4f4912b1662da18922038688ae8e0"
 metafile = true
 
 [[files]]
+file = "mods/pneumono_core.pw.toml"
+hash = "e263156892782aff6124ef4fe589527a07383c66ead1ed5b93a5d15dcb03b8f7"
+metafile = true
+
+[[files]]
+file = "mods/pneumono_gravestones.pw.toml"
+hash = "6e0e1e035d3662088d59d8bb9cbb25217fd9d954ab004a7d463f6ef6fa644db8"
+metafile = true
+
+[[files]]
 file = "mods/redstonepen.pw.toml"
 hash = "db5d6b54f58a48e38950a9510b971be7f97a8c5180f2905f788dc1d75c4ad5fc"
 metafile = true
@@ -308,4 +318,9 @@ metafile = true
 [[files]]
 file = "mods/valkyrien-skies.pw.toml"
 hash = "2cce9aa9d219cb91d9e7c67dd6d24b220cddaa4e6e8c5764e015e8cd5a01e577"
+metafile = true
+
+[[files]]
+file = "shaderpacks/makeup-ultra-fast-shaders.pw.toml"
+hash = "5497d3ab3f39171289a05ce996b3a757e960c2200a3d9435124762f056a74b4e"
 metafile = true

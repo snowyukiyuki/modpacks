@@ -171,6 +171,11 @@ hash = "51fae398a6df96b056e5cd119b59187c0a7f26fd210ab1c5406d3de2e8e271af"
 metafile = true
 
 [[files]]
+file = "mods/gravestones.pw.toml"
+hash = "e02e297f397621e1c0d17f6853d5176e23343609e978ac3fd35f1a73d00d509c"
+metafile = true
+
+[[files]]
 file = "mods/immersive-aircraft.pw.toml"
 hash = "63a06d00526a9315b5906d03b9921d5b957c0cd30cbd392f745887be21d4935f"
 metafile = true
@@ -253,16 +258,6 @@ metafile = true
 [[files]]
 file = "mods/pehkui.pw.toml"
 hash = "c24d537ff9c54ebfc6b244ded3d82a47a2f4f4912b1662da18922038688ae8e0"
-metafile = true
-
-[[files]]
-file = "mods/pneumono_core.pw.toml"
-hash = "e263156892782aff6124ef4fe589527a07383c66ead1ed5b93a5d15dcb03b8f7"
-metafile = true
-
-[[files]]
-file = "mods/pneumono_gravestones.pw.toml"
-hash = "6e0e1e035d3662088d59d8bb9cbb25217fd9d954ab004a7d463f6ef6fa644db8"
 metafile = true
 
 [[files]]

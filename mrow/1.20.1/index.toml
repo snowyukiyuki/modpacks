@@ -106,6 +106,16 @@ hash = "1271fe47b105f5eb46d659ea79b0e7323a56288830d6af991f6bccc9d23eddc6"
 metafile = true
 
 [[files]]
+file = "mods/colorwheel-patcher.pw.toml"
+hash = "1b3feaea10985c4840836c8c341bda015d6653bf3f78cd838021b9ac44a7d080"
+metafile = true
+
+[[files]]
+file = "mods/colorwheel.pw.toml"
+hash = "99069b0b521c016571c4179ae41cb77913bd4ac286b0c29c34c8aa9a199f0130"
+metafile = true
+
+[[files]]
 file = "mods/continuity.pw.toml"
 hash = "bee33aeaef617b11b4b99f59e9443b354140630fddc0ddf95d60314cd201abab"
 metafile = true
@@ -186,18 +196,8 @@ hash = "e96d6fe991c6f55e79b0cf760d10186a4c42aded2a81d1914657e5c427af5f5b"
 metafile = true
 
 [[files]]
-file = "mods/iris-flywheel-compat.pw.toml"
-hash = "847552c175b3b4c35e8106a75dbd1243b530487105871650fa7cbb52c2418b3a"
-metafile = true
-
-[[files]]
 file = "mods/iris.pw.toml"
-hash = "0ba6a898d408aa0bfdaaf70721c1e46c47636e01ac7b5244b6b43994704882af"
-metafile = true
-
-[[files]]
-file = "mods/irisshaders.pw.toml"
-hash = "bc64bb0f72acc944a8f6fd48e6147c698efd0456d6c63c27847bcaa896addd84"
+hash = "99efc9e805ce2888680d3cacb9be65733c6d4a8cfcb77e1976205f758db24346"
 metafile = true
 
 [[files]]
@@ -307,7 +307,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "816002a1dd90d02914c570974c6e413b8d712242bad3c01a591d1b76f46ba65d"
+hash = "ecf8e1df2361e5f1d090f83eee16c449ff1021dfb2da46474a72726406d5d535"
 metafile = true
 
 [[files]]

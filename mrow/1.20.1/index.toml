@@ -201,6 +201,11 @@ hash = "99efc9e805ce2888680d3cacb9be65733c6d4a8cfcb77e1976205f758db24346"
 metafile = true
 
 [[files]]
+file = "mods/irisshaders.pw.toml"
+hash = "bc64bb0f72acc944a8f6fd48e6147c698efd0456d6c63c27847bcaa896addd84"
+metafile = true
+
+[[files]]
 file = "mods/jei.pw.toml"
 hash = "d5026c3ae985be49c9c6375af4f52795bd771858cba863fb6cba9add950bf3da"
 metafile = true

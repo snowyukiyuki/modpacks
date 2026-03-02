@@ -1,12 +1,12 @@
 name = "1.20.1"
 author = "Starlight"
-version = "1.0.0"
+version = "1"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "19b714ad4900c9593b02364224fb66f6ba24c450dd3ab5e9987e6caa82e966fa"
+hash = "ff58d043fd906f3e6503c34260aec42909ad19999da2096cf87176b61b793ea9"
 
 [versions]
 fabric = "0.18.4"

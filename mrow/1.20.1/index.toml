@@ -136,11 +136,6 @@ hash = "446fab8551eac0486998922b625c7e9a5d7bce4f3dd8fb8455a95cd49e26b55c"
 metafile = true
 
 [[files]]
-file = "mods/distanthorizons.pw.toml"
-hash = "47fd33da68d0b13cdffd4124f5bc9cff64caa2878ce7e979ba8092400c2ae1eb"
-metafile = true
-
-[[files]]
 file = "mods/energized-power.pw.toml"
 hash = "dcfeece63f635643c13bfa0b91ca355c86d8ca60d2a9aa7384d813bbfbc3273e"
 metafile = true
@@ -334,6 +329,10 @@ metafile = true
 file = "mods/valkyrien-skies.pw.toml"
 hash = "2cce9aa9d219cb91d9e7c67dd6d24b220cddaa4e6e8c5764e015e8cd5a01e577"
 metafile = true
+
+[[files]]
+file = "readme"
+hash = "3e987448f4f135892c37f4f4d4faf13da3341da0f34e2c882d63f8161d001b2c"
 
 [[files]]
 file = "shaderpacks/makeup-ultra-fast-shaders.pw.toml"

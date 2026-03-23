@@ -316,6 +316,11 @@ hash = "2c6a3d95de4ea6b34eb9f6947efe7701d6cf253369429574ce48c6f53049d6e2"
 metafile = true
 
 [[files]]
+file = "mods/telluriumforge.pw.toml"
+hash = "64eafe704394a93f31fdf014e8d816f56085c462cfc7688399f9900fc0428677"
+metafile = true
+
+[[files]]
 file = "mods/travelersbackpack.pw.toml"
 hash = "7a4038f8a262da3ad538cbb67f514b4e49cb8c65102876f2664379cf823145b4"
 metafile = true
@@ -323,6 +328,11 @@ metafile = true
 [[files]]
 file = "mods/tree-harvester.pw.toml"
 hash = "3f092115f91d9900395b2eab5105d73adbaa37fe4cbcf26cb1c743d2e9baa4b8"
+metafile = true
+
+[[files]]
+file = "mods/turtle-charging-station.pw.toml"
+hash = "b6e6abb2950c18f02adfb31e4c1cf17e41f7b3660842bd8b29aa4980bed3dbf3"
 metafile = true
 
 [[files]]
